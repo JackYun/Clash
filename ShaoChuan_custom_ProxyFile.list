@@ -10,4 +10,3 @@
 #在这种情况下, www.google.com 或 googleapis.com 都将路由到 policy.
 
 
-DOMAIN-SUFFIX,blocknative.com
