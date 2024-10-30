@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,proxyline.net
 
 
 #AdsPower(烂东西！！！)
-DOMAIN-SUFFIX,myclientip.com
-DOMAIN-SUFFIX,adspower.com
-DOMAIN-SUFFIX,adspower.net
-DOMAIN-SUFFIX,salesmartly.com
+#DOMAIN-SUFFIX,myclientip.com
+#DOMAIN-SUFFIX,adspower.com
+#DOMAIN-SUFFIX,adspower.net
+#DOMAIN-SUFFIX,salesmartly.com
