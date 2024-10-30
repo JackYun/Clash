@@ -9,8 +9,10 @@ DOMAIN-SUFFIX,layer3.xyz
 DOMAIN-SUFFIX,mirror.xyz
 DOMAIN-SUFFIX,rabbithole.gg
 DOMAIN-SUFFIX,galxe.com
+DOMAIN-SUFFIX,gravity.xyz
+DOMAIN-SUFFIX,dune.com
 DOMAIN-KEYWORD,bitget
-DOMAIN-KEYWORD,layer3
+#DOMAIN-KEYWORD,layer3
 
 
 #Crypto data analyzed
