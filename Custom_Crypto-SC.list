@@ -1,6 +1,6 @@
 #Crypto
 
-
+#常用Web3网址
 DOMAIN-SUFFIX,blocknative.com
 DOMAIN-SUFFIX,gasnow.io
 DOMAIN-SUFFIX,sui.io
@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,gravity.xyz
 DOMAIN-SUFFIX,dune.com
 DOMAIN-SUFFIX,meteora.ag
 DOMAIN-SUFFIX,story.foundation
-DOMAIN,token-api.metaswap.codefi.network
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,1ml.com
 DOMAIN-SUFFIX,aave.com
@@ -235,7 +234,7 @@ DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,zapper.xyz
 
-
+#交易所
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-KEYWORD,bitget
 DOMAIN-KEYWORD,binance
