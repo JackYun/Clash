@@ -248,7 +248,8 @@ PROCESS-NAME,OKX.exe
 
 
 
-#Crypto data analyzed
+#Crypto新闻和数据分析
+DOMAIN-SUFFIX,panewslab.com
 DOMAIN-SUFFIX,rootdata.com
 
 #BSC应用
