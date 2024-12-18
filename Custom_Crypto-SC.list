@@ -25,6 +25,9 @@ PROCESS-NAME,OKX.exe
 #Crypto新闻和数据分析
 DOMAIN-SUFFIX,panewslab.com
 DOMAIN-SUFFIX,rootdata.com
+DOMAIN-SUFFIX,icoanalytics.org
+DOMAIN-SUFFIX,crypto-fundraising.info
+DOMAIN-SUFFIX,chainbroker.io
 DOMAIN-SUFFIX,foresightnews.pro
 
 
