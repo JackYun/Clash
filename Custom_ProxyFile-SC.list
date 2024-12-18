@@ -51,3 +51,9 @@ DOMAIN-SUFFIX,ypncdn.com
 #DOMAIN-SUFFIX,adspower.net
 #DOMAIN-SUFFIX,salesmartly.com
 #DOMAIN-SUFFIX,clarity.ms
+
+
+#其他
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-KEYWORD,gitbook
