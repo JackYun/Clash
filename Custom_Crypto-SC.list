@@ -2,9 +2,9 @@
 
 
 #交易所
+DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bitget.com
-DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,gate.ac
@@ -17,9 +17,9 @@ DOMAIN-KEYWORD,huobi
 DOMAIN-KEYWORD,metamask
 DOMAIN-KEYWORD,okx
 DOMAIN-KEYWORD,gate
-PROCESS-NAME,Binance.exe
-PROCESS-NAME,Huobi.exe
-PROCESS-NAME,OKX.exe
+#PROCESS-NAME,Binance.exe
+#PROCESS-NAME,Huobi.exe
+#PROCESS-NAME,OKX.exe
 
 
 #Crypto新闻和数据分析
