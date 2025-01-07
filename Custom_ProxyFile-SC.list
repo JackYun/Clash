@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,mirror.xyz
 DOMAIN-SUFFIX,linux.do
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,google.com
+
 
 # Porn
 DOMAIN-KEYWORD,porn
@@ -30,6 +33,7 @@ DOMAIN-SUFFIX,dditscdn.com
 DOMAIN-SUFFIX,livejasmin.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-KEYWORD,pornhub
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,rdtcdn.com
@@ -40,6 +44,7 @@ DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xnxx-cdn.com
 DOMAIN-SUFFIX,xnxx.com
+DOMAIN-KEYWORD,xvideos
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
