@@ -9,7 +9,7 @@
 #DOMAIN-KEYWORD,google,policy 将任何包含 google 关键字的域名路由到 policy.
 #在这种情况下, www.google.com 或 googleapis.com 都将路由到 policy.
 #GEOIP IP地理位置 (国家代码)
-#PROCESS-NAME进程名称
+#PROCESS-NAME进程名称(OpenWrt内无法使用)
 
 
 #常用网站
