@@ -1,4 +1,10 @@
 #Crypto
+#
+# 个人补充规则。大而全的 Web3/Crypto 公共规则在 SC-Custom_Rule.ini 中引用：
+# - blackmatrix7 Crypto
+# - blackmatrix7 Binance
+# - blackmatrix7 OKX
+# 本文件只放公共规则未必覆盖、或本人常用且希望优先归入 Web_3 的域名。
 
 
 #交易所
@@ -17,9 +23,49 @@ DOMAIN-KEYWORD,okx
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-KEYWORD,huobi
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,deribit.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,upbit.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.gg
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.co
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.info
+DOMAIN-SUFFIX,saasexch.io
 #PROCESS-NAME,Binance.exe
 #PROCESS-NAME,Huobi.exe
 #PROCESS-NAME,OKX.exe
+
+
+#交易所前端/认证/风控/静态资源补充
+DOMAIN-SUFFIX,token.awswaf.com
+DOMAIN-SUFFIX,devfdg.net
+DOMAIN-SUFFIX,toolsfdg.net
+DOMAIN-SUFFIX,nftstatic.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,smartling.com
+DOMAIN-SUFFIX,sumsub.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,wistia.com
+DOMAIN-SUFFIX,wistia.net
+DOMAIN-SUFFIX,litix.io
+DOMAIN-SUFFIX,agora.io
+DOMAIN-SUFFIX,sd-rtn.com
+DOMAIN,public-1306379396.file.myqcloud.com
+DOMAIN,static-file-1306379396.file.myqcloud.com
+DOMAIN,public-1259603563.file.myqcloud.com
+DOMAIN,static-file-1259603563.file.myqcloud.com
+DOMAIN,upload-bnbstatic-com.s3.ap-northeast-1.amazonaws.com
+DOMAIN,embedwistia-a.akamaihd.net
 
 
 #Crypto新闻和数据分析
@@ -29,6 +75,11 @@ DOMAIN-SUFFIX,icoanalytics.org
 DOMAIN-SUFFIX,crypto-fundraising.info
 DOMAIN-SUFFIX,chainbroker.io
 DOMAIN-SUFFIX,foresightnews.pro
+DOMAIN-SUFFIX,defillama.com
+DOMAIN-SUFFIX,dexscreener.com
+DOMAIN-SUFFIX,dextools.io
+DOMAIN-SUFFIX,gmgn.ai
+DOMAIN-SUFFIX,coinglass.com
 
 
 #常用Web3网址
@@ -40,6 +91,7 @@ DOMAIN-SUFFIX,1ml.com
 #A
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,aicoin.com
+DOMAIN-SUFFIX,alchemy.com
 DOMAIN-SUFFIX,arbitrum.io
 DOMAIN-SUFFIX,avax.network
 DOMAIN-SUFFIX,arbiscan.io
@@ -57,6 +109,7 @@ DOMAIN-SUFFIX,btc.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,core.app
+DOMAIN-SUFFIX,chainlist.org
 
 #D
 DOMAIN-SUFFIX,dune.com
@@ -84,6 +137,7 @@ DOMAIN-SUFFIX,heco-scan.com
 
 #J
 DOMAIN-SUFFIX,jumper.exchange
+DOMAIN-SUFFIX,jup.ag
 
 #K
 DOMAIN-SUFFIX,korbit.co.kr
@@ -97,6 +151,7 @@ DOMAIN-SUFFIX,l2beat.com
 #M
 DOMAIN-SUFFIX,moonscan.io
 DOMAIN-SUFFIX,merlinchain.io
+DOMAIN-SUFFIX,metamask.io
 
 #N
 DOMAIN-SUFFIX,nexus.xyz
@@ -115,6 +170,7 @@ DOMAIN-SUFFIX,orbiter.finance
 #P
 DOMAIN-SUFFIX,pancakeswap.com
 DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,pump.fun
 DOMAIN-SUFFIX,puffer.fi
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,portalbridge.com
@@ -123,11 +179,14 @@ DOMAIN-SUFFIX,portalbridge.com
 
 #R
 DOMAIN-SUFFIX,rabbithole.gg
+DOMAIN-SUFFIX,rabby.io
+DOMAIN-SUFFIX,raydium.io
 
 #S
 DOMAIN-SUFFIX,sui.io
 DOMAIN-SUFFIX,story.foundation
 DOMAIN-SUFFIX,solana.com
+DOMAIN-SUFFIX,solscan.io
 
 #T
 
@@ -138,6 +197,8 @@ DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,venus.io
 
 #W
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,wormhole.com
 
 #X
